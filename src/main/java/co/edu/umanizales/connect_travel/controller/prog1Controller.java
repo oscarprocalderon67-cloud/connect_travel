@@ -13,7 +13,7 @@ public class prog1Controller {
 
     public String getHello()
     {
-        return "Hola Campeones";
+        return "Hola Campeones y campeonas";
     }
 
 
