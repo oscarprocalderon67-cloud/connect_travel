@@ -6,7 +6,7 @@ public enum LicenseType {
     B1,  // Automóviles, camperos, camionetas y motocarros
     B2,  // Camiones rígidos, busetas y busetones
     B3,  // Vehículos articulados
-    C1,  // Automóviles, camperos, camionetas, motocicletas y cuatrimotos
+    C1,  // Automóviles, camperos, camionetas
     C2,  // Servicio público
     C3   // Transporte de carga
 }
